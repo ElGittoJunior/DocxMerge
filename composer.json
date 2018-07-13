@@ -1,5 +1,5 @@
 {
-  "name": "ElGittoJunior/docx-merge",
+  "name": "el-gitto-junior/docx-merge",
   "type": "library",
   "description": "Simple library for merging multiple MS Word \".docx\" files into one",
   "keywords": ["docx","merge","placeholder"],
